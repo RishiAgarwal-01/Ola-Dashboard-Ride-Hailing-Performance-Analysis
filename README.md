@@ -52,9 +52,11 @@ I'm always open to discussing data projects, strategy, or business intelligence!
 * **LinkedIn:** `linkedin.com/in/rishiagarwal524`
 * **GitHub:** `github.com/RishiAgarwal-01`
 
+
 ## 📸 Images
 
-*(Placeholder for dashboard screenshot images)*
-
-`<img width="1280" height="720" alt="Ola Dashboard - Overview" src="[Link_to_Overview_Image]" />`
-`<img width="1280" height="720" alt="Ola Dashboard - Cancellation Analysis" src="[Link_to_Cancellation_Image]" />`
+<img width="1427" height="800" alt="Overall" src="https://github.com/user-attachments/assets/4be955df-5bdf-46a8-9cca-ce41137ced18" />
+<img width="1437" height="803" alt="Vehicle Type" src="https://github.com/user-attachments/assets/1b2b9fa0-5f20-42f1-8e59-bc099a286d19" />
+<img width="1430" height="792" alt="Revenue" src="https://github.com/user-attachments/assets/17c71c19-f18c-42fd-9e42-613b5616bcc1" />
+<img width="1440" height="802" alt="Cancellations" src="https://github.com/user-attachments/assets/4c2f6c69-193d-49ff-9907-8e1ea5e44443" />
+<img width="1443" height="806" alt="Ratings" src="https://github.com/user-attachments/assets/d063ce7e-5d3c-4704-bd75-afebab667519" />
